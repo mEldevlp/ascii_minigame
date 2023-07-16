@@ -1,5 +1,3 @@
-# ASCII Minigame
-
 ## Main menu
 *press* __"space"__ *to begin play*
 
