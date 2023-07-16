@@ -2,6 +2,7 @@
 
 ## Main menu
 *press* __"space"__ *to begin play*
+
 ![startgame](img/startgame.png)
 
 ## Gameplay
